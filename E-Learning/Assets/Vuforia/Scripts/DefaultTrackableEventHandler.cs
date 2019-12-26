@@ -18,7 +18,11 @@ using Vuforia;
 public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandler
 {
     #region PROTECTED_MEMBER_VARIABLES
+<<<<<<< HEAD
        bool x;
+=======
+
+>>>>>>> parent of 101e9e3... Update DefaultTrackableEventHandler.cs
     protected TrackableBehaviour mTrackableBehaviour;
     protected TrackableBehaviour.Status m_PreviousStatus;
     protected TrackableBehaviour.Status m_NewStatus;
